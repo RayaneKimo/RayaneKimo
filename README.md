@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 Already gradutaed from the National Polytechnic School of Algiers. Now, I am Normalian joining the **MVA master** and my journey is currently focused on advancing the world of  AI with a special emphasis on series and sequential data.
 
 🔭 **I’m currently working on...**
