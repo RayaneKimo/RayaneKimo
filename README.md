@@ -15,7 +15,7 @@ Already gradutaed from the National Polytechnic School of Algiers. Now, I am Nor
 - Keeping up with the latest developments in AI, as this field is constantly evolving. I welcome any insights, tips, or resources you can share.
 
 📫 **How to reach me:**
-- You can connect with me here on GitHub, or you can reach out via email at [your-email@example.com](mailto:rayane.kimouche@outlook.com).
+- You can connect with me here on GitHub, or you can reach out via [my outlook](mailto:rayane.kimouche@g.enp.edu.dz).
 
 😄 **Pronouns:**
 - Feel free to use any pronouns when referring to me.
