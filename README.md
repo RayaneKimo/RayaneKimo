@@ -4,7 +4,7 @@ Already gradutaed from the National Polytechnic School of Algiers. Now, I am Nor
 🔭 **I’m currently working on...**
 - Exploring the fascinating world of generative AI and its applications in sequential data, such as time series, signals, natural language, and more.
 
-🌱 **I’m currently learning...**
+🌱 **I’m currently learning on...**
 - Deepening my understanding of recurrent neural networks, GANs, and transformer models to push the boundaries of what's possible with generative AI.
 
 👯 **I’m looking to collaborate on...**
